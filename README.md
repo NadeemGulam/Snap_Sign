@@ -12,7 +12,7 @@ Welcome to **Snap-Sign**, an innovative Angular 17 application that brings the p
 
 ## Live Demo :computer:
 
-Check out the live demo here.
+Check out the live demo here. `https://nadeemgulam.github.io/Snap-Sign/`
 
 ## Getting Started :rocket:
 
@@ -52,6 +52,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact :mailbox:
 
-Your Name - your@email.com
+Your Name - Nadeem10shagulam@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: `https://github.com/NadeemGulam/Snap-Sign`
