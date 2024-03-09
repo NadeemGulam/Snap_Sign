@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
-import { Component, OnInit, ViewChild } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import SignaturePad from 'signature_pad';
 import { FormsModule } from '@angular/forms';
 
